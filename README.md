@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @habibcodings aka Sayid
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning anything, because I'm a noob
 - 📫 How to reach me on instagram @sayid_rayhan
 
 <!---
